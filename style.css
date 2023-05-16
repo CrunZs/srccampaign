@@ -1,0 +1,49 @@
+@font-face {
+    font-family: "CRUNzSSOLO";
+    src: url(optima-cufonfonts/OPTIMA.TTF);
+}
+h1 {
+    text-align: center;
+    font-family: "CRUNzSSOLO", sans-serif;
+    font-size: 80px;
+    font-weight: 300px;
+}
+
+p {
+    text-align: center;
+    font-family: "CRUNzSSOLO", sans-serif;
+    font-size: 20px;
+}
+
+.img-responsive {
+    width: 320px;
+    height: 420px;
+}
+
+.team {
+    margin: 75px 0;
+}
+
+.hbh1 {
+    text-align: center;
+    font-weight: bold;
+    color: #333;
+    padding-bottom: 10px;
+}
+
+.hbh1:after {
+    content: '';
+    background: #333;
+    display: block;
+    height: 3px;
+    width: 150px;
+    margin: 10px auto;
+}
+
+h2 {
+    font-family: "CRUNzSSOLO", sans-serif;
+}
+
+h3 {
+    font-family: "CRUNzSSOLO", sans-serif;
+}
